@@ -1,5 +1,5 @@
 <?php
-namespace dmstr\adminlte\web;
+namespace phuongitvn\adminlte\web;
 
 use yii\web\AssetBundle;
 
